@@ -1,5 +1,5 @@
 (ns com.etzhayyim.joucho.murakumo-test
-  (:require [clojure.test :refer [deftest is]]
+  (:require [kotoba.test :refer [deftest is]]
             [com.etzhayyim.joucho.murakumo :as joucho]))
 
 (deftest aggregate-empty-signals
