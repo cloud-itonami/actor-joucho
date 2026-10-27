@@ -1,6 +1,6 @@
 # Joucho actor — Well-Becoming experience signals
 
-Canonical repository: `etzhayyim/actor-joucho`.
+Canonical repository: `cloud-itonami/actor-joucho`.
 
 Joucho is a signal-producing organ of the Tamaki artificial organism. It derives
 advisory Well-Becoming observations about places, meals, products, buildings,
