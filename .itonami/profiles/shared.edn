@@ -7,6 +7,6 @@
  :profile/id "actor-joucho"
  :profile/default? true
  :bot/name "actor-joucho"
- :bot/brief "etzhayyim/actor-joucho の常駐 actor。charter に従って行動する。"
- :bot/context-refs [{:kind "repo" :target "etzhayyim/actor-joucho"}]
+ :bot/brief "cloud-itonami/actor-joucho の常駐 actor。charter に従って行動する。"
+ :bot/context-refs [{:kind "repo" :target "cloud-itonami/actor-joucho"}]
  :bot/tools-requested []}
